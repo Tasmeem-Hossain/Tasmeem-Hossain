@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tasmeem-hossain&label=Profile%20views&color=0e75b6&style=flat" alt="tasmeem-hossain" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="
+<p align="left"> <a href="
+THcoderofficial.github.io"><img src="
 THcoderofficial.github.io" alt="tasmeem-hossain" /></a> </p>
 
 - 🔭 I’m currently working on **Machine Learning and Data Science projects**
