@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tasmeem Hossain</h1>
 <h3 align="center">Computer Science Graduate | Aspiring Data Scientist & Machine Learning Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tasmeem-hossain&label=Profile%20views&color=0e75b6&style=flat" alt="tasmeem-hossain" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=tasmeem-hossain&label=Profile%20views&color=0e75b6&style=flat" alt="tasmeem-hossain](https://github.com/Tasmeem-Hossain/THcoderofficial.github.io)" /> </p>
 
 <p align="left"> <a href="
 THcoderofficial.github.io"><img src="
